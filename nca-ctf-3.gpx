@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<wpt lat="27.7613299" lon="85.2758789">
+		<name>1</name>
+	</wpt>
+	<wpt lat="31.297328" lon="116.1914063">
+		<name>2</name>
+	</wpt>
+	<wpt lat="-26.7456104" lon="133.8574219">
+		<name>3</name>
+	</wpt>
+	<wpt lat="-75.7373028" lon="58.7109375">
+		<name>braces</name>
+	</wpt>
+	<wpt lat="-22.268764" lon="24.1699219">
+		<name>5</name>
+	</wpt>
+	<wpt lat="-38.4105583" lon="-64.5996094">
+		<name>6</name>
+	</wpt>
+	<wpt lat="49.6089302" lon="6.1303711">
+		<name>7</name>
+	</wpt>
+	<wpt lat="26.5885271" lon="29.7070313">
+		<name>8</name>
+	</wpt>
+	<wpt lat="8.9284871" lon="6.8554688">
+		<name>9</name>
+	</wpt>
+	<wpt lat="24.046464" lon="44.8242188">
+		<name>10</name>
+	</wpt>
+	<wpt lat="47.4243709" lon="19.1381836">
+		<name>11</name>
+	</wpt>
+	<wpt lat="33.7243397" lon="65.7421875">
+		<name>12</name>
+	</wpt>
+	<wpt lat="19.0127871" lon="-72.5976563">
+		<name>13</name>
+	</wpt>
+	<wpt lat="-77.915669" lon="-71.015625">
+	</wpt>
+	<wpt lat="-77.915669" lon="-71.015625">
+		<name>braces</name>
+	</wpt>
+</gpx>
